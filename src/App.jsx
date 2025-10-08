@@ -57,7 +57,7 @@ function App() {
       <table>
         <thead>
           <tr>
-            <th>Name</th>
+            <th>Names</th>
             <th>Grade</th>
             <th>Actions</th>
           </tr>
