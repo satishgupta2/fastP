@@ -2,7 +2,7 @@ import React from 'react'
 
 const veg = () => {
   return (
-    <div>veg</div>
+    <div>veg-form</div>
   )
 }
 
